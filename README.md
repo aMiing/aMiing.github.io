@@ -1,2 +1,3 @@
 # aMiing.github.io
-github域
+- [个人博客](/blog)
+- [个人简历](https://visiky.github.io/resume/?user=aMiing)
