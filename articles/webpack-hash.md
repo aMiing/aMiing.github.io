@@ -20,3 +20,5 @@ hash 是跟整个项目的构建相关，只要项目里有文件更改，整个
 > 在 chunkhash 的例子，我们可以看到由于 index.css 被 index.js 引用了，所以共用相同的 chunkhash 值。但是这样子有个问题，如果 index.js 更改了代码，css 文件就算内容没有任何改变，由于是该模块发生了改变，导致 css 文件会重复构建。
 
 这个时候，我们可以使用`extra-text-webpack-plugin`里的 contenthash 值，保证即使 css 文件所处的模块里就算其他文件内容改变，只要 css 文件内容不变，那么不会重复构建。
+
+[返回首页](/)

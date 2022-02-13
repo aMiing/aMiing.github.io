@@ -9,6 +9,9 @@
 -   [ES6 -- 生成器函数](https://amiing.github.io/articles/generator)
 -   [ES6 -- 生成器函数异步执行的实际场景](https://amiing.github.io/articles/generator-2)
 -   [es6 常用新特性](https://amiing.github.io/articles/es6)
+-   [es6 let x = x; 会报错吗？为什么？-- 暂时性死区](https://amiing.github.io/articles/die-area)
+-   [es6 你说的this是哪个this?](https://amiing.github.io/articles/es6-this)
+-   [es6 解构赋值的模式与变量?](https://amiing.github.io/articles/es6-unfold)
 
 ### [ 工具函数 ]
 

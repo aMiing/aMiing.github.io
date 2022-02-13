@@ -41,3 +41,5 @@ function getDefaultAdapter() {
     return adapter;
 }
 ```
+
+[返回首页](/)
