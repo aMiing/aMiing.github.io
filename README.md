@@ -4,6 +4,9 @@
 
 ## 目录导航
 
+### [前端技能树 知识图谱](/articles/mindmap.md)
+### [TypeScript基础 知识图谱](/articles/TypeScript.md)
+
 ### [ ES6 ]
 
 -   [ES6 -- 生成器函数](https://amiing.github.io/articles/generator)
@@ -40,3 +43,6 @@
 
 -   [判断是 node 环境还是浏览器环境](https://amiing.github.io/articles/environment)
 -   [为什么 element-ui 大量使用 transition 修改元素样式?](https://amiing.github.io/articles/transition)
+-   [数据可视化面试题目一](/articles/question.md)
+-   [彻底搞懂原型与原型链](/articles/PrototypeChain.md)
+-   [详解虚拟DOM与Diff算法](/articles/vNode.md)
