@@ -40,16 +40,16 @@
 -   [webWorker 的异常处理](https://amiing.github.io/articles/webworker)
 
 ### [ 算法系列 ]
-- [千分位分割](/articles/千分位分割.md)
-- [如何实现数组乱序？](/articles/乱序.md)
+- [千分位分割](https://amiing.github.io/articles/千分位分割.md)
+- [如何实现数组乱序？](https://amiing.github.io/articles/乱序.md)
 
 ### [其他]
 
 -   [判断是 node 环境还是浏览器环境](https://amiing.github.io/articles/environment)
 -   [为什么 element-ui 大量使用 transition 修改元素样式?](https://amiing.github.io/articles/transition)
--   [数据可视化面试题目一](/articles/question.md)
--   [彻底搞懂原型与原型链](/articles/PrototypeChain.md)
--   [详解虚拟DOM与Diff算法](/articles/vNode.md)
--   [ 交叉监视器IntersectionObserver实践和问题总结](articles/IntersectionObserver1.md)
--   [利用IntersectionObserver 分分钟实现图片懒加载](articles/IntersectionObserver实现图片懒加载实践.md)
+-   [数据可视化面试题目一](https://amiing.github.io/articles/question.md)
+-   [彻底搞懂原型与原型链](https://amiing.github.io/articles/PrototypeChain.md)
+-   [详解虚拟DOM与Diff算法](https://amiing.github.io/articles/vNode.md)
+-   [ 交叉监视器IntersectionObserver实践和问题总结](https://amiing.github.io/articles/IntersectionObserver1.md)
+-   [利用IntersectionObserver 分分钟实现图片懒加载](https://amiing.github.io/articles/IntersectionObserver实现图片懒加载实践.md)
   
