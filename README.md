@@ -16,6 +16,11 @@
 -   [es6 你说的this是哪个this?](https://amiing.github.io/articles/es6-this)
 -   [es6 解构赋值的模式与变量?](https://amiing.github.io/articles/es6-unfold)
 
+### [ javascript原理 ]
+-   [继承原理](https://amiing.github.io/articles/js实现继承)
+-   [彻底搞懂原型与原型链](https://amiing.github.io/articles/PrototypeChain)
+
+
 ### [ 工具函数 ]
 
 -   [手撕一个防抖函数](https://amiing.github.io/articles/debounce)
@@ -25,7 +30,8 @@
 ### [ VUE ]
 
 -   [彻底搞懂为什么不建议用 index 作为 v-for 的 key？](https://amiing.github.io/articles/indexOfKey)
--   [彻底搞懂 vue 中组件之前的传值](https://amiing.github.io/articles/vue-post)
+-   [彻底搞懂 vue 中组件之前的数据通讯](https://amiing.github.io/articles/vue-post)
+-   [详解虚拟DOM与Diff算法](https://amiing.github.io/articles/vNode)
 
 ### [ CHROME 插件相关 ]
 
@@ -43,13 +49,14 @@
 - [千分位分割](https://amiing.github.io/articles/千分位分割)
 - [如何实现数组乱序？](https://amiing.github.io/articles/乱序)
 
-### [其他]
+### [ 业务场景 ]
+  - [页面跳转拦截](https://amiing.github.io/articles/跳转拦截)
+
+### [ 其他 ]
 
 -   [判断是 node 环境还是浏览器环境](https://amiing.github.io/articles/environment)
 -   [为什么 element-ui 大量使用 transition 修改元素样式?](https://amiing.github.io/articles/transition)
 -   [数据可视化面试题目一](https://amiing.github.io/articles/question)
--   [彻底搞懂原型与原型链](https://amiing.github.io/articles/PrototypeChain)
--   [详解虚拟DOM与Diff算法](https://amiing.github.io/articles/vNode)
 -   [ 交叉监视器IntersectionObserver实践和问题总结](https://amiing.github.io/articles/IntersectionObserver1)
 -   [利用IntersectionObserver 分分钟实现图片懒加载](https://amiing.github.io/articles/IntersectionObserver实现图片懒加载实践)
   
