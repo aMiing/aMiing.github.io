@@ -62,3 +62,4 @@
 - [ 交叉监视器 IntersectionObserver 实践和问题总结](https://amiing.github.io/articles/IntersectionObserver1)
 - [利用 IntersectionObserver 分分钟实现图片懒加载](https://amiing.github.io/articles/IntersectionObserver实现图片懒加载实践)
 - [信号灯控制器](https://amiing.github.io/articles/红绿灯)
+- [你是如何获取文本宽度的？](https://amiing.github.io/articles/你是如何获取文本宽度的？)
